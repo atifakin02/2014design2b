@@ -1,8 +1,11 @@
+//These are basic built in drawing functions and are covered in 
+//Shiffman, Learning Processing - Chapter 1 and 2
+
 // change the size of the screen 
 //size(width, height);
 size(300, 300);
 
-//draw rect
+//draw rectangle
 //rect(x,y,width, height);
 rect(25, 25, 100, 100);
 
